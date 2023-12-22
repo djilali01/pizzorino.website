@@ -1,0 +1,84 @@
+header{
+    padding:10px 22px ;
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+body{
+    background-color:bisque;
+}
+.shoptitle{
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+#presentation{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    padding: 20px 32px;
+    display: flex;
+}
+.shoppic{
+    display: flex;
+    padding: 0px 90px;
+}
+#recipe{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+    display: flex;
+    padding: 20px 32px;
+    justify-content: center;
+}
+.boxes{
+    display: contents;
+    
+}
+.box1{
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 18px;
+   font-weight: 200;
+}
+.box2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+.box3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+.box4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    font-weight: 200;
+}
+.sectiontree{
+    background-color: red;
+    padding:10px 22px ;
+    margin: 20px;
+}
+#contact{
+    color: white;
+    font-size: 22px;
+    font-weight: 200;
+}
+#name{
+    color: white;
+    font-size: 22px;
+    font-weight: 200;
+}
+#tektek{
+    color: white;
+    font-size: 22px;
+    font-weight: 200;
+}
+.footer{
+    background-color: aqua;
+    padding: 5px 11px;
+    margin: 10px;
+}
